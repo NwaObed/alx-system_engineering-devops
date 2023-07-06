@@ -1,0 +1,3 @@
+#!/bin/bash
+# syntax chown [OPTIONS] owner[:[Groups]] filename  (use --help for reference)
+chown betty hello
