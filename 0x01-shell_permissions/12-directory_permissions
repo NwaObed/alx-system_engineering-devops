@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --mode=751 .
+chmod -m 751 .
