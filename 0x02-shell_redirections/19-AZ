@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$input" | tr 'Ac' 'Ze'
+echo "Apple is a fruit from the carribean" | tr 'Ac' 'Ze'
